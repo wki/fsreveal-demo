@@ -1,0 +1,4 @@
+.fake/
+.DS_Store
+packages/
+output/
