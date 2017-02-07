@@ -1,6 +1,7 @@
 #I @"packages/FsReveal/fsreveal/"
 #I @"packages/FAKE/tools/"
 #I @"packages/Suave/lib/net40"
+#I @"packages\FSharp.Formatting\lib\net40\"
 
 #r "FakeLib.dll"
 #r "Suave.dll"
